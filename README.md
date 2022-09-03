@@ -1,14 +1,7 @@
 ## Login-Page
-**This repo. contain some "Login page" , That I have made during learning and practicing HTML & CSS.**
+**This repo. contain a "Login page" , That I have made during learning and practicing HTML & CSS.**
 <br>
 
-### Table of content:
-
-
-* [v1](#v1)
-* [v2](#v2)
-
-<br>
 
 ## Objective and Requirements:
 - Goal: Created Login Page with some cool CSS.
@@ -18,33 +11,7 @@
 - Required: editor and browser
 
 ##  :camera: Snapshots of Project:
-<br>
-
-## v2
-
-You can see [Output](https://loginpage-v2-ayushsleeping.netlify.app/) here !
-
-<br>
-
- ![alt text](https://github.com/ayush-sleeping/Login-Page/blob/main/v2/Output.png)
- 
- <br>
- 
-
-## v1
-
-You can see [Output](https://login-page-v1-ayushsleeping.netlify.app/) here !
-
-<br>
-
- ![alt text](https://github.com/ayush-sleeping/Login-Page/blob/main/v1/Final%20Output.png)
- 
- <br>
- 
+<img alt="Ouput" src="output.png">
 
  
- <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
