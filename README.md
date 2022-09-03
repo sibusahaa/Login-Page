@@ -11,7 +11,7 @@
 - Required: editor and browser
 
 ##  :camera: Snapshots of Project:
-<img alt="Output" src="Output.png">
+<img alt="Output" src="output.png">
 
  
 
