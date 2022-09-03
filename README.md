@@ -10,7 +10,7 @@
    *  Adding CSS ( Giving cool style ✨ )
 - Required: editor and browser
 
-##  :camera: Snapshots of Project:
+##  :camera: Snapshot of Project:
 <img alt="Output" src="output.png">
 
  
